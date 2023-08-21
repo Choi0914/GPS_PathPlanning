@@ -97,7 +97,7 @@ class velocityPlanning :
                 x=global_path.poses[i+box].pose.position.x
                 y=global_path.poses[i+box].pose.position.y
                 x_list.append([-2*x,-2*y,1])
-                y_list.append(-(x*x)-(y*y))2D_LiDA
+                y_list.append(-(x*x)-(y*y))
             x_matrix=np.array(x_list)
             y_matrix=np.array(y_list)
             x_trans=x_matrix.T
