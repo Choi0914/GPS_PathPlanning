@@ -1,5 +1,4 @@
 # GPS_PathPlanning
----
 이 레포지토리는 MORAI simulator 환경에서 GPS만을 사용하여 Path를 만들고 PathPlanning을 구현한 프로젝트입니다.<br>
 
 ### 사용 운영체제
